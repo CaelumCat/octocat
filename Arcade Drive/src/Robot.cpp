@@ -21,6 +21,10 @@ public:
 			stick(0)
 	{
 		myRobot.SetExpiration(0.1);
+		myRobot.SetExpiration(0.1);
+		myRobot.SetExpiration(0.1);
+		myRobot.SetExpiration(0.1);
+		myRobot.SetExpiration(0.1);
 	}
 
 	/**
